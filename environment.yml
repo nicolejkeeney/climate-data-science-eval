@@ -1,0 +1,13 @@
+name: clim-ds-env
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - netcdf4
+  - numpy 
+  - matplotlib
+  - pip
+  - pandas
+  - xarray
+  - jupyter
