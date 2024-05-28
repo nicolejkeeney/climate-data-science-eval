@@ -4,7 +4,7 @@
 Using the command line, clone this repository so you have all the required files. 
 
 ## 2. Install the Python environment 
-Using Anaconda and the provided environment.yml file to create the required conda environment for running the notebook 
+Use Anaconda and the provided environment.yml file to create the required conda environment for running the notebook 
 
 ## 3. Run the evaluation: notebook.ipynb 
 Fill in the blank code cells with the appropriate python code to answer each section in the notebook. All the required libraries for running the notebook are included in the conda environment you should have installed in step 2. 
